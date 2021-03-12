@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
     marginTop: 100,
   },
   buttons: {
-    marginTop: '80%',
+    marginTop: '75%',
     width: '92%',
     marginRight: 15,
     marginLeft: 15,
